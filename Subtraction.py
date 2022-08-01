@@ -1,0 +1,1 @@
+print("Print 10-10 is 0")
